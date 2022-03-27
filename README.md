@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kevin
 
-📌 My Current Goals:
+📌 My Current Goals
 
 I'm sharpening my skills in React JS / data structures and algorithms
 
